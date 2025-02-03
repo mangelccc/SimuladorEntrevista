@@ -57,7 +57,7 @@ La comunicación con la API se efectúa en tiempo real cada vez que el usuario s
 A continuación, se muestran ejemplos visuales para identificar una **respuesta buena** y una **respuesta mala**:
 
 ### Ejemplo de Respuesta Buena
-![Respuesta Buena](https://via.placeholder.com/600x200?text=Respuesta+Buena)
+![Respuesta Buena](./public/imagenes/EjemploBueno.png)
 > *La respuesta buena presenta claridad, estructura y demuestra un análisis profundo, resaltando tanto fortalezas como áreas de mejora de manera constructiva.*
 
 ### Ejemplo de Respuesta Mala
