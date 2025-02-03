@@ -58,11 +58,9 @@ A continuación, se muestran ejemplos visuales para identificar una **respuesta 
 
 ### Ejemplo de Respuesta Buena
 ![Respuesta Buena](./public/imagenes/EjemploBueno.png)
-> *La respuesta buena presenta claridad, estructura y demuestra un análisis profundo, resaltando tanto fortalezas como áreas de mejora de manera constructiva.*
 
 ### Ejemplo de Respuesta Mala
 ![Respuesta Mala](./public/imagenes/EjemploMalo.png)
-> *La respuesta mala carece de detalles, es vaga y no ofrece una retroalimentación constructiva, limitándose a comentarios genéricos.*
 
 ---
 
